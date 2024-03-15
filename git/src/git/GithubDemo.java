@@ -1,7 +1,8 @@
 package git;
 
-public class Github {
+public class GithubDemo {
 	public static void main(String args[]) {
-		System.out.println("vanakkam");
+		System.out.println("hi hello");
 	}
+
 }
